@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
 ## Development server
@@ -23,3 +24,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# sunshop-angular6
+This is frontend project for Angular 6
+>>>>>>> f1907d3b3a2dab3ec4bed4f86612e6c3f84cee03
