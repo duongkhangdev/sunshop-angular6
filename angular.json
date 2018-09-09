@@ -23,14 +23,19 @@
               "src/assets"
             ],
             "styles": [
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "node_modules/font-awesome/css/font-awesome.css",
-              "node_modules/animate.css/animate.css",
-              "node_modules/nprogress/nprogress.css",
+              "node_modules/gentelella/vendors/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/gentelella/vendors/font-awesome/css/font-awesome.css",
+              "node_modules/gentelella/vendors/animate.css/animate.css",
+              "node_modules/gentelella/vendors/nprogress/nprogress.css",
               "src/assets/css/custom.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/gentelella/vendors/jquery/dist/jquery.min.js",
+              "node_modules/gentelella/vendors/bootstrap/dist/js/bootstrap.min.js",
+              "node_modules/gentelella/vendors/fastclick/lib/fastclick.js",
+              "node_modules/gentelella/vendors/nprogress/nprogress.js"              
+            ]
           },
           "configurations": {
             "production": {
