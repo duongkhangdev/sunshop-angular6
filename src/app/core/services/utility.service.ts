@@ -41,7 +41,6 @@ export class UtilityService {
     }
     return roots;
   }
-  
 
   MakeSeoTitle(input: string) {
     if (input == undefined || input == '') {
